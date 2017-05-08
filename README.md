@@ -3,4 +3,4 @@
 
 ## 支持 [TOC] 解析
 
-![image](https://raw.githubusercontent.com/ekoooo/marked/master/screenshots/toc.png)
+![image](https://raw.githubusercontent.com/ekoooo/marked/master/screenshot/toc.png)
