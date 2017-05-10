@@ -4,6 +4,8 @@
 ## todo list
 - [x] TOC parse
 - [x] task list parse
+- [x] themes
+- [ ] code highlight
 
 ## 支持 [TOC] 解析
 
