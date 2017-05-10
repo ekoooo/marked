@@ -1,6 +1,10 @@
 
 ## forked from [chjj/marked](https://github.com/chjj/marked)
 
+## todo list
+- [x] TOC parse
+- [x] task list parse
+
 ## 支持 [TOC] 解析
 
 code
@@ -45,5 +49,19 @@ code
 
 preview
 
-
 ![image](https://raw.githubusercontent.com/ekoooo/marked/master/screenshot/toc.png)
+
+## 支持 task list 解析
+
+code
+
+```markdown
+# todo list
+- [x] [links](), **formatting**, and <del>tags</del> are supported
+- [x] A `markdown` parser and compiler. Built for speed.
+- [x] this is a complete item
+- [ ] this is an incomplete item
+```
+
+preview
+![image](https://raw.githubusercontent.com/ekoooo/marked/master/screenshot/tasklist.png)
