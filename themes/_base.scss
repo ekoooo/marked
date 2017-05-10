@@ -72,10 +72,14 @@ $blockquote-border-left-bg-color: #eee !default;
     background-color: $bgc;
     color: $text-color;
 
-    .toc {
+    .task-list, .toc {
         li {
             list-style-type: none;
         }
+    }
+
+    .task-list ul {
+        padding-left: 0;
     }
 
     h1, h2, h3, h4, h5, h6 {
