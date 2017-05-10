@@ -3,6 +3,8 @@
 
 ## 支持 [TOC] 解析
 
+code
+
 ``` markdown
 [toc]
 # HEAD
